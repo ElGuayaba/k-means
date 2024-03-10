@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# K-means PoC
